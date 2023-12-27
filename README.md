@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ajayikx
+- 👋 Hi, I’m Ajayi Abdulquadri oluwasegun
 - 👀 I’m interested in embedded systems in automobiles
 - 🌱 I’m currently learning C/C++ Programming, Phython , MATLAB,Microcontrollers and Microprocessors,
 - Embedded Systems Architecture,Real-Time Operating Systems (RTOS) and many more ...
